@@ -1,3 +1,5 @@
+// Functions
+
 // Declarative Function
 helloOne()
 function helloOne(){

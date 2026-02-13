@@ -1,4 +1,5 @@
-//Objects
+//Objects and Arrays
+
 var customer = {
     firstName: "John",
     lastName: "Smith",
