@@ -1,0 +1,14 @@
+{
+  "name": "artem_cypressio",
+  "homepage": "https://github.com/KwokFong/Artem_CypressIO#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwokFong/Artem_CypressIO.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.10.0"
+  }
+}
